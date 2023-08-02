@@ -1,1 +1,1 @@
-This read me file is about shell basics
+This is the shell basics
