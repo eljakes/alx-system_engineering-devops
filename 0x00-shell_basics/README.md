@@ -1,1 +1,2 @@
-This is the shell basics
+Shell basics is awesome.
+Lets get it done well.
